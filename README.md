@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananiaslitz
 - 👀 I’m interested in OpenSource Projects and PHP.
-- 🌱 I’m currently learning Swoole, concurrence and parallel programming. 
+- 🌱 I’m currently learning Kotlin, Swoole, concurrence and parallel programming. 
 - 💞️ I’m looking to collaborate on OpenSource Projects based in HyperF, Laminas or Symfony projects.
 - 📫 How to reach me diegohsananias@gmail.com or @AnaniasLitz on Twitter.
 
