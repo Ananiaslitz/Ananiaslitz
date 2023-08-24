@@ -5,7 +5,7 @@
 - 📫 How to reach me diegohsananias@gmail.com or @AnaniasLitz on Twitter.
 - :open_book: Read my articles [here](https://ananiaslitz.medium.com/).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananiaslitz&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananiaslitz)]
 
 <!---
 Ananiaslitz/Ananiaslitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
