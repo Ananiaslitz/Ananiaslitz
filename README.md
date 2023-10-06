@@ -6,5 +6,3 @@
 - :open_book: Read my articles [here](https://ananiaslitz.medium.com/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananiaslitz)]
-
-[![An image of @ananiaslitz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananiaslitz)](https://holopin.io/@ananiaslitz)
